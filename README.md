@@ -14,7 +14,7 @@ HTML CSS JS REACT REDUX NODEJS EXPRESS MONGODB etc...
 ## Other
 👩‍💻 I'm currently studying in GCELT- 3rd Year
 
-🧠 I'm currently learning Web3
+🧠 I'm currently learning Data Science
 
 📫 E-mail: official.gopi@outlook.com
     
@@ -26,7 +26,7 @@ HTML CSS JS REACT REDUX NODEJS EXPRESS MONGODB etc...
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://officialgopi.xyz)
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopikanta-mondal/)
 
 
 
