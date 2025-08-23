@@ -1,43 +1,203 @@
-<h1 align="center">Hi 👋, I'm Gopikanta Mondal</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=64748B&left=true&vleft=true&random=false&width=435&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Gopikanta+Mondal;Full+Stack+Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officialgopi&label=Profile%20views&color=0e75b6&style=flat" alt="officialgopi" /> </p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=officialgopi&label=Profile%20views&color=64748B&style=flat-square" alt="Profile Views" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialgopi" alt="officialgopi" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/devofficialgopi" target="blank"><img src="https://img.shields.io/twitter/follow/devofficialgopi?logo=twitter&style=for-the-badge" alt="devofficialgopi" /></a> </p>
+## 🚀 **About Me**
 
-- 🔭 I’m currently working on [CoderRoute(Leetcode Clone)](https://github.com/OfficialGopi/CoderRoute)
+I'm a passionate **Full Stack Web Developer** from India, currently diving deep into **System Design**. I love building scalable web applications and contributing to open-source projects.
 
-- 🌱 I’m currently learning **Data Science with python**
+- 🔭 **Currently working on:** [CoderRoute (LeetCode Clone)](https://github.com/OfficialGopi/CoderRoute)
+- 🌱 **Learning:** System Design
+- 💬 **Ask me about:** React, Node.js, Express.js, Databases (SQL & NoSQL)
+- 📫 **Contact:** [official.gopi@outlook.com](mailto:official.gopi@outlook.com)
 
-- 👨‍💻 All of my projects are available at [https://officialgopi.xyz](https://officialgopi.xyz)
+---
 
-- 📝 I regularly write articles on [https://hashnode.com/@officialgopi](https://hashnode.com/@officialgopi)
+## 🛠️ **Full Stack Development Skills**
 
-- 💬 Ask me about **react, nodejs, expressjs, databases(sql, nosql)**
+### **Frontend Development**
 
-- 📫 How to reach me **official.gopi@outlook.com**
+<div align="left">
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F1F5F9 0%, #E2E8F0 100%); color: #334155; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #CBD5E1;">
+      ⚛️ React.js
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F8FAFC 0%, #F1F5F9 100%); color: #475569; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #CBD5E1;">
+      ⚡ Next.js
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F1F5F9 0%, #E2E8F0 100%); color: #334155; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #CBD5E1;">
+      🔷 TypeScript
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F8FAFC 0%, #F1F5F9 100%); color: #475569; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #CBD5E1;">
+      🎨 Tailwind CSS
+    </div>
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://officialgopi.xyz/resume.pdf](https://officialgopi.xyz/resume.pdf)
+### **Backend Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/officialgopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="officialgopi" height="30" width="40" /></a>
-<a href="https://twitter.com/devofficialgopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devofficialgopi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gopikanta-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopikanta-mondal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30975038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30975038" height="30" width="40" /></a>
-<a href="https://codesandbox.com/officialgopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="officialgopi" height="30" width="40" /></a>
-<a href="https://instagram.com/gopikanta__mondal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopikanta__mondal_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@officialgopi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@officialgopi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hacker0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hacker0g" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%); color: #0C4A6E; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #BAE6FD;">
+      🟢 Node.js
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F8FAFC 0%, #F1F5F9 100%); color: #475569; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #CBD5E1;">
+      🚀 Express.js
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #FEF3C7 0%, #FDE68A 100%); color: #92400E; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #FCD34D;">
+      🐍 Python
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #FEF3C7 0%, #FDE68A 100%); color: #92400E; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #FCD34D;">
+      ☕ Java
+    </div>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### **Database & Data Management**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialgopi&show_icons=true&locale=en&layout=compact" alt="officialgopi" /></p>
+<div align="left">
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #ECFDF5 0%, #D1FAE5 100%); color: #065F46; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #A7F3D0;">
+      🍃 MongoDB
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%); color: #0C4A6E; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #BAE6FD;">
+      🐘 PostgreSQL
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F1F5F9 0%, #E2E8F0 100%); color: #334155; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #CBD5E1;">
+      🗄️ MySQL
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #FEF2F2 0%, #FEE2E2 100%); color: #991B1B; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #FECACA;">
+      🔴 Redis
+    </div>
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialgopi&show_icons=true&locale=en" alt="officialgopi" /></p>
+### **DevOps & Cloud Infrastructure**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialgopi&" alt="officialgopi" /></p>
+<div align="left">
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%); color: #0C4A6E; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #BAE6FD;">
+      🐳 Docker
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F1F5F9 0%, #E2E8F0 100%); color: #334155; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #CBD5E1;">
+      ☁️ AWS
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #FEF2F2 0%, #FEE2E2 100%); color: #991B1B; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #FECACA;">
+      📝 Git
+    </div>
+  </a>
+  <a href="#" style="text-decoration: none; display: inline-block; margin: 6px;">
+    <div style="background: linear-gradient(135deg, #F0F9FF 0%, #E0F2FE 100%); color: #0C4A6E; padding: 14px 22px; border-radius: 12px; font-weight: 600; font-size: 14px; box-shadow: 0 2px 8px rgba(148, 163, 184, 0.15); transition: all 0.3s ease; border: 1px solid #BAE6FD;">
+      ⚙️ Kubernetes
+    </div>
+  </a>
+</div>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=officialgopi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=334155&text_color=64748B&icon_color=94A3B8" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialgopi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=334155&text_color=64748B" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialgopi&theme=default&hide_border=true&background=ffffff&stroke=94A3B8&ring=CBD5E1&fire=64748B&currStreakNum=334155&sideNums=64748B&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 **GitHub Achievements**
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=officialgopi&theme=flat&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🔗 **Professional Network**
+
+<div align="left">
+  <a href="https://officialgopi.xyz" target="_blank" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="background: linear-gradient(135deg, #475569 0%, #64748B 100%); color: white; padding: 16px 28px; border-radius: 16px; font-weight: 600; font-size: 15px; box-shadow: 0 4px 12px rgba(71, 85, 105, 0.25); transition: all 0.3s ease; border: 1px solid #334155;">
+      🌐 Portfolio
+    </div>
+  </a>
+  <a href="https://linkedin.com/in/gopikanta-mondal" target="_blank" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="background: linear-gradient(135deg, #0EA5E9 0%, #0284C7 100%); color: white; padding: 16px 28px; border-radius: 16px; font-weight: 600; font-size: 15px; box-shadow: 0 4px 12px rgba(14, 165, 233, 0.25); transition: all 0.3s ease; border: 1px solid #0369A1;">
+      💼 LinkedIn
+    </div>
+  </a>
+  <a href="https://twitter.com/devofficialgopi" target="_blank" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="background: linear-gradient(135deg, #0EA5E9 0%, #0284C7 100%); color: white; padding: 16px 28px; border-radius: 16px; font-weight: 600; font-size: 15px; box-shadow: 0 4px 12px rgba(14, 165, 233, 0.25); transition: all 0.3s ease; border: 1px solid #0369A1;">
+      🐦 Twitter
+    </div>
+  </a>
+  <a href="https://hashnode.com/@officialgopi" target="_blank" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="background: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%); color: white; padding: 16px 28px; border-radius: 16px; font-weight: 600; font-size: 15px; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.25); transition: all 0.3s ease; border: 1px solid #1D4ED8;">
+      ✍️ Hashnode
+    </div>
+  </a>
+  <a href="https://dev.to/officialgopi" target="_blank" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="background: linear-gradient(135deg, #475569 0%, #64748B 100%); color: white; padding: 16px 28px; border-radius: 16px; font-weight: 600; font-size: 15px; box-shadow: 0 4px 12px rgba(71, 85, 105, 0.25); transition: all 0.3s ease; border: 1px solid #334155;">
+      🚀 Dev.to
+    </div>
+  </a>
+  <a href="https://www.leetcode.com/hacker0g" target="_blank" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%); color: white; padding: 16px 28px; border-radius: 16px; font-weight: 600; font-size: 15px; box-shadow: 0 4px 12px rgba(245, 158, 11, 0.25); transition: all 0.3s ease; border: 1px solid #B45309;">
+      🧮 LeetCode
+    </div>
+  </a>
+</div>
+
+---
+
+## 📝 **Latest Blog Posts**
+
+<div align="left">
+  <a href="https://hashnode.com/@officialgopi" target="_blank" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="background: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%); color: white; padding: 16px 28px; border-radius: 16px; font-weight: 600; font-size: 15px; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.25); transition: all 0.3s ease; border: 1px solid #1D4ED8;">
+      📚 Read My Blogs
+    </div>
+  </a>
+</div>
+
+---
+
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=officialgopi&theme=default" alt="Profile Details" />
+</div>
+
+---
+
+<div align="left">
+  <sub style="color: #64748B; font-size: 14px;">⭐ Star this repository if you found it helpful!</sub>
+</div>
