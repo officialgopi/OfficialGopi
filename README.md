@@ -1,11 +1,17 @@
-<div align="center" style="display:flex; border-radius:10px; overflow:hidden; padding:0;">
-  <img src="./assets/officialgopi_banner.png" style="width:100%;padding:0; height:100%;" alt="Gopikanta Mondal" width="100%" />
+<!-- Banner -->
+<div >  
+  <img alt="Gopikanta Mondal" style='border-radius:10px;' style="height:100%; width:100%;" src="./assets/officialgopi_banner.png">
 </div>
 
-<h1 align="center">Hey, I'm Gopikanta Mondal ✨</h1>
-<h3 align="center">AI Full Stack Developer | Open Source Enthusiast</h3>
+#### I'm a Explorer based in India.
 
-## 🚀 About Me
+- 🏢 I'm studying in Government College of Engineering and Leather Technology.
+- Want to know about me? https://officialgopi.xyz
+- I love everything in tech.
+
+- 🌍 I support linux because its amazing.
+
+- 😄 Passionate about Web and AI to bring that tech into peoples hand!
 
 > I'm a passionate Full Stack Developer from India, specializing in building scalable web applications and contributing to open source.
 
@@ -44,27 +50,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; width:100%; flex-wrap: wrap; height:400;  " >
+<div align="center" style="display:flex; width:100%; flex-wrap: wrap; height:400;   " >
   <img src="https://github-readme-stats.vercel.app/api?username=officialgopi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"  style="display:flex; flex:1 ; align-items:center; flex-wrap:wrap; height:100%; "/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialgopi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" style="display:flex; flex:1 ; align-items:center; flex-wrap:wrap; height:100%; " />
 </div>
 
-## 🔗 Connect With Me
+<br/>
 
-<div align="center" style=" display:flex; gap:10px;">
-  <a href="https://officialgopi.xyz">
-    <img src="./assets/icons/portfolio.png" alt="Portfolio"  style="padding:5px; border-radius:10px;"    width="50"/>
-  </a>
-  <a href="https://linkedin.com/in/gopikanta-mondal">
-    <img src="./assets/icons/linkedin.png" alt="LinkedIn"  style="padding:5px; border-radius:10px;"   width="50"/>
-  </a>
-  <a href="https://x.com/devofficialgopi">
-    <img src="./assets/icons/x.png" alt="Twitter"  style="padding:5px; border-radius:10px;"   width="50"/>
-  </a>
+![OfficialGopi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=officialgopi&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)
 
-  <a href="https://leetcode.com/u/Hacker0G/">
-    <img src="./assets/icons/leetcode.jpeg"   style="padding:5px; border-radius:10px;" alt="LeetCode"  width="50"/>
-  </a>
 </div>
 
 ---
