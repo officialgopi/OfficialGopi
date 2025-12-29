@@ -6,7 +6,7 @@
 #### I'm a Explorer based in India.
 
 - 🏢 I'm studying in Government College of Engineering and Leather Technology.
-- Want to know about me? https://officialgopi.xyz
+- Want to know about me? https://officialgopi.me
 - I love everything in tech.
 
 - 🌍 I support linux because its amazing.
@@ -15,7 +15,7 @@
 
 > I'm a passionate Full Stack Developer from India, specializing in building scalable web applications and contributing to open source.
 
-- Dream Project **CoderRoute**(https://coderroute.officialgopi.xyz)
+- Dream Project **CoderRoute**(https://coderroute.officialgopi.me)
 - Learning **System Design**
 - Ask me about **React, Node.js, Databases, System Designs**
 - Reach me at [official.gopi@outlook.com](mailto:official.gopi@outlook.com)
